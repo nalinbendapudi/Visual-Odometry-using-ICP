@@ -5,6 +5,7 @@ In this implementation, we estimate the vehicle trajectory by calculating the re
 ## Usage Instructions
 
 run `kitti_icp.m` to get the trajectory
+
 run `genDisparityMap.m` to get the disparity map
 
 ## Results (Trajectory image)
