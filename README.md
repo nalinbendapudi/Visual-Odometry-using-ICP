@@ -10,5 +10,5 @@ run `genDisparityMap.m` to get the disparity map
 
 ## Results (Trajectory image)
 
-![Visual Odometry](https://github.com/bghadge/Visual-Odometry/blob/master/Visual%20Odometry%20Zoomed.jpg)
-![Visual Odometry](https://github.com/bghadge/Visual-Odometry/blob/master/Visual%20Odometry%20Output.jpg)
+![Trajectory (zoomed)](https://github.com/nalinbendapudi/Visual-Odometry-using-ICP/blob/master/Visual%20Odometry%20Zoomed.jpg)
+![Trajectory (zoomed)](https://github.com/nalinbendapudi/Visual-Odometry-using-ICP/blob/master/Visual%20Odometry%20Output.jpg)
